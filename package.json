@@ -1,0 +1,9 @@
+{
+  "name": "tdd-bdd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@faker-js/faker": "^6.3.1"
+  }
+}
