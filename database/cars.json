@@ -1,0 +1,23 @@
+[
+  {
+    "id": "4bad93ef-07b2-4b35-a0db-bc3331e49a0e",
+    "name": "V90",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "9143ceac-856d-4768-8a05-6fd0136628fe",
+    "name": "El Camino",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "a901a15e-4fcd-45a8-bd5e-0c10a4e41a71",
+    "name": "Model T",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+  }
+]
